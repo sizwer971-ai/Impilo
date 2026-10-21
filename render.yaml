@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: impilo-0720-tennis-club
+    runtime: static
+    buildCommand: 'echo "No build step required"'
+    staticPublishPath: .
