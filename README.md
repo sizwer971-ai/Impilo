@@ -10,6 +10,8 @@ Recent achievement: Under-10 players participated in a Tuks tournament and finis
 
 National achievement: Silver Medalists at the National Schools Championship 2024.
 
+The site features the slogan “It always seems impossible until it's done.”, commonly attributed to Nelson Mandela.
+
 ## Project files
 
 ```text
