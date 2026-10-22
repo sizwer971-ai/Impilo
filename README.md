@@ -12,7 +12,8 @@ Recent achievement: Under-10 players participated in a Tuks tournament and finis
 index.html       Page structure and content
 css/styles.css   Colours, layout and responsive design
 js/main.js       Mobile navigation and current year
-assets/          Place club-owned photos here when available
+assets/          Club logo and club-owned photos
+assets/impilo-0720-logo.svg  Downloadable vector logo
 README.md        Project and publishing notes
 render.yaml      Render static-site deployment settings
 ```
