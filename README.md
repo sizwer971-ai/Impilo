@@ -19,13 +19,13 @@ render.yaml      Render static-site deployment settings
 
 The tennis photos currently load from Unsplash as visual placeholders. Replace them with photos the club has permission to use. Text in square brackets is information for the club to confirm.
 
-The enquiry form submits to FormSubmit, which processes submissions and forwards them to `sizwer971@gmail.com`. The recipient must verify the activation email FormSubmit sends after the first submission before enquiries can be delivered. Do not use the live form for testing with real personal information until the recipient is ready to receive enquiries.
+The site currently provides direct email and phone contact details; it does not include an online enquiry form.
 
 ## Open and test in VS Code
 
 1. Open `index.html` from the Explorer, then choose **Open with Live Server** if that extension is already installed. Otherwise, use **File > Open in Browser** if available, or open `index.html` in your web browser from File Explorer.
 2. Resize the browser to check the desktop and mobile layouts.
-3. On a narrow window, open the menu and follow a link. Do not submit a test enquiry on the live site unless the club is ready to activate FormSubmit.
+3. On a narrow window, open the menu and follow a link. Check that the email and phone links open the appropriate apps.
 4. Internet access is needed for the hosted fonts and placeholder photos. The page structure and local styles still work without them.
 
 ## Git and GitHub
@@ -76,4 +76,4 @@ Later commits pushed to the connected branch will trigger a new deploy automatic
 
 After pushing the project to GitHub, open its repository settings, choose **Pages**, select deployment from the `main` branch and the root folder, then save. GitHub Pages will show the published website address when deployment is ready. This site is static, so it does not need a server or build step.
 
-Before sharing the site, replace contact details and other bracketed placeholders with confirmed information, confirm FormSubmit activation, and ensure the club is ready to receive enquiries.
+Before sharing the site, replace contact details and other bracketed placeholders with confirmed information.
