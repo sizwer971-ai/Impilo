@@ -4,6 +4,8 @@ A mobile-friendly, single-page website foundation for Impilo 0720 Tennis Club in
 
 The club hosts three annual in-house tournaments: Impilo Tennis Vuka Opening Tournament (14 March), Impilo Anniversary Tournament (18 July) and Impilo Closing Tournament (28 November). All three are held at HM Pitje Stadium tennis courts in Mamelodi West.
 
+Training is Monday–Friday, 15:30–17:30, and Saturday, 07:00–11:30, for ages 5–50. Registration is R300 per annum, with a monthly fee of R80,00.
+
 Recent achievement: Under-10 players participated in a Tuks tournament and finished in 2nd, 5th and 9th positions.
 
 ## Project files
