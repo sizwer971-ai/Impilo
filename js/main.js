@@ -16,9 +16,4 @@ siteNav.addEventListener('click', (event) => {
   }
 });
 
-document.querySelector('#enquiry-form').addEventListener('submit', (event) => {
-  event.preventDefault();
-  document.querySelector('#form-status').textContent = 'Thanks. This is a demo only: your information has not been sent or stored. Connect a form service before using this form with real enquiries.';
-});
-
 document.querySelector('#current-year').textContent = new Date().getFullYear();
