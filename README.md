@@ -8,6 +8,8 @@ Training is Monday–Friday, 15:30–17:30, and Saturday, 07:00–11:30, at HM P
 
 Recent achievement: Under-10 players participated in a Tuks tournament and finished in 2nd, 5th and 9th positions.
 
+National achievement: Silver Medalists at the National Schools Championship 2024.
+
 ## Project files
 
 ```text
