@@ -19,7 +19,7 @@ render.yaml      Render static-site deployment settings
 
 The tennis photos currently load from Unsplash as visual placeholders. Replace them with photos the club has permission to use. Text in square brackets is information for the club to confirm.
 
-The enquiry form submits to FormSubmit, which processes submissions and forwards them to `impilo0720@gmail.com`. The club must verify the activation email FormSubmit sends after the first submission before enquiries can be delivered. Do not use the live form for testing with real personal information until the club is ready to receive enquiries.
+The enquiry form submits to FormSubmit, which processes submissions and forwards them to `sizwer971@gmail.com`. The recipient must verify the activation email FormSubmit sends after the first submission before enquiries can be delivered. Do not use the live form for testing with real personal information until the recipient is ready to receive enquiries.
 
 ## Open and test in VS Code
 
